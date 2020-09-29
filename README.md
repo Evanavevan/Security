@@ -21,5 +21,29 @@
 ## 子域名枚举
 - 搜索引擎查询（site:xxx.com）
 - http://tool.chinaz.com/subdomain/ 站长之家
-- http://searchdns.netcraft.com/ （谷歌翻墙）
-- 
+- http://searchdns.netcraft.com/ 
+- https://www.virustotal.com/ 
+- https://censys.io/
+- https://x.threatbook.cn/
+- https://phpinfo.me/domain/
+- https://dnsdumpster.com/ 
+## 子域名暴力猜解工具
+- layer子域名挖掘机
+- Kali recon-ng
+- https://github.com/ring04h/wydomain 
+- https://github.com/lijiejie/subDomainsBrute
+- https://github.com/aboul3la/Sublist3r
+## DNS查询/枚举
+- http://tool.chinaz.com/dns/
+- https://tool.lu/dns
+## 证书透明度公开日志枚举
+- https://crt.sh/
+- https://spyse.com/tools/ssl-lookup
+- https://censys.io/
+## 旁站信息收集
+- http://s.tool.chinaz.com/same
+- http://www.webscan.cc
+## C段信息
+- http://www.webscan.cc
+- https://www.chinabaiker.com/cduan.php
+
