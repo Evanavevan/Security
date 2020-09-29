@@ -46,4 +46,30 @@
 ## C段信息
 - http://www.webscan.cc
 - https://www.chinabaiker.com/cduan.php
+## CDN
+- http://ping.chinaz.com/
+- http://ping.aizhan.com/
+- https://dnsdb.io/zh-cn/ DNS查询
+- https://x.threatbook.cn/
+- https://sitereport.netcraft.com/
+- http://viewdns.info/
+- https://tools.ipip.net/cdn.php
+- https://securitytrails.com
+## 资产信息收集
+- https://www.shodan.io/
+- https://fofa.so/
+- https://www.zoomeye.org/
+## Web应用指纹信息识别工具
+- http://www.yunsee.cn/
+- wappalyzer插件 
+- whatweb工具
+- CMS识别工具：http://whatweb.bugscaner.com/look/
+## SVN源代码
+- https://github.com/admintony/svnExploit
+## 网盘信息
+- http://magnet.chongbuluo.com/
+- http://www.zhuzhupan.com/
+- http://www.zhuzhupan.com/
+## 历史漏洞信息收集
+- 
 
