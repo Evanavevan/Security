@@ -70,6 +70,14 @@
 - http://magnet.chongbuluo.com/
 - http://www.zhuzhupan.com/
 - http://www.zhuzhupan.com/
-## 历史漏洞信息收集
+
+# 有用的知识
+- https://baijiahao.baidu.com/s?id=1666024412704315446&wfr=spider&for=pc
+- https://github.com/LoRexxar/Kunlun-M
+- https://github.com/shack2/SNETCracker/releases
+- https://blog.zeddyu.info/2019/01/17/%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/#%E5%8F%8D%E5%BC%95%E5%8F%B7%EF%BC%88%E9%87%8D%E9%9F%B3%E7%AC%A6%EF%BC%89
+- https://www.freebuf.com/articles/web/247463.html
+- https://www.freebuf.com/articles/security-management/192723.html
+- https://www.freebuf.com/articles/web/245291.html
 - 
 
