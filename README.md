@@ -79,5 +79,20 @@
 - https://www.freebuf.com/articles/web/247463.html
 - https://www.freebuf.com/articles/security-management/192723.html
 - https://www.freebuf.com/articles/web/245291.html
+- https://www.freebuf.com/articles/network/257603.html  【Linux内网渗透】
+- https://www.freebuf.com/articles/web/249043.html  【信息收集】
+- https://www.freebuf.com/articles/security-management/192723.html  【等保】
+- https://www.freebuf.com/articles/web/252333.html  【PHP代码审计】
+- https://www.freebuf.com/vuls/254160.html  【未授权漏洞】
+- https://www.freebuf.com/sectool/253994.html  【Go CRLF漏洞扫描工具】
+- https://www.freebuf.com/articles/container/254220.html  【docker安全监测工具】
+- https://www.freebuf.com/articles/web/256235.html  【登录点】
+-
+
+
+## 经典渗透案例
+- https://www.freebuf.com/articles/web/257774.html 
+- https://www.freebuf.com/vuls/257629.html
+- https://www.freebuf.com/articles/network/255169.html
 - 
 
