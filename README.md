@@ -87,12 +87,12 @@
 - https://www.freebuf.com/sectool/253994.html  【Go CRLF漏洞扫描工具】
 - https://www.freebuf.com/articles/container/254220.html  【docker安全监测工具】
 - https://www.freebuf.com/articles/web/256235.html  【登录点】
--
+- https://k-ring.github.io/2019/05/31/%E5%AF%B9%E4%B8%87%E9%87%91%E6%B2%B9gopher%E5%8D%8F%E8%AE%AE%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E5%BA%94%E7%94%A8/  【SSRF】
 
 
 ## 经典渗透案例
 - https://www.freebuf.com/articles/web/257774.html 
 - https://www.freebuf.com/vuls/257629.html
 - https://www.freebuf.com/articles/network/255169.html
-- 
+- https://www.freebuf.com/articles/web/257978.html
 
