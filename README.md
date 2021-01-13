@@ -88,6 +88,7 @@
 - https://www.freebuf.com/articles/container/254220.html  【docker安全监测工具】
 - https://www.freebuf.com/articles/web/256235.html  【登录点】
 - https://k-ring.github.io/2019/05/31/%E5%AF%B9%E4%B8%87%E9%87%91%E6%B2%B9gopher%E5%8D%8F%E8%AE%AE%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E5%BA%94%E7%94%A8/  【SSRF】
+- https://mp.weixin.qq.com/s?biz=MzI5MDQ2NjExOQ==&mid=2247484232&idx=1&sn=7a4b4cba86f763e80ad8dd80523ada99&chksm=ec1e3360db69ba76605788159b206b4c4623efdfd74904b6570fa201f08743cfb17958884498&scene=21#wechat_redirect  【端口安全测试】
 
 
 ## 经典渗透案例
