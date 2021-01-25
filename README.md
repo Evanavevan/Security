@@ -91,6 +91,7 @@
 - https://mp.weixin.qq.com/s?biz=MzI5MDQ2NjExOQ==&mid=2247484232&idx=1&sn=7a4b4cba86f763e80ad8dd80523ada99&chksm=ec1e3360db69ba76605788159b206b4c4623efdfd74904b6570fa201f08743cfb17958884498&scene=21#wechat_redirect  【端口安全测试】
 - https://www.freebuf.com/articles/database/258650.html 【Go二进制分析】
 - https://www.freebuf.com/articles/web/259377.html 【WAF绕过】
+- https://github.com/tintinweb/paramiko-sshfuzz  【sshfuzzer】
 
 
 ## 经典渗透案例
