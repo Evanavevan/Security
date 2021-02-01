@@ -102,4 +102,4 @@
 - https://www.freebuf.com/articles/web/258365.html
 - https://www.freebuf.com/articles/web/259027.html
 - https://www.freebuf.com/vuls/259417.html
-
+- https://www.freebuf.com/vuls/259933.html
