@@ -92,6 +92,7 @@
 - https://www.freebuf.com/articles/database/258650.html 【Go二进制分析】
 - https://www.freebuf.com/articles/web/259377.html 【WAF绕过】
 - https://github.com/tintinweb/paramiko-sshfuzz  【sshfuzzer】
+- https://www.freebuf.com/articles/system/261271.html 【Linux提权】
 
 
 ## 经典渗透案例
