@@ -93,6 +93,7 @@
 - https://www.freebuf.com/articles/web/259377.html 【WAF绕过】
 - https://github.com/tintinweb/paramiko-sshfuzz  【sshfuzzer】
 - https://www.freebuf.com/articles/system/261271.html 【Linux提权】
+- https://www.freebuf.com/articles/system/263139.html 【Windows提权】
 
 
 ## 经典渗透案例
@@ -104,3 +105,6 @@
 - https://www.freebuf.com/articles/web/259027.html
 - https://www.freebuf.com/vuls/259417.html
 - https://www.freebuf.com/vuls/259933.html
+- https://www.freebuf.com/articles/web/262232.html
+- https://www.freebuf.com/articles/web/262805.html
+- 
