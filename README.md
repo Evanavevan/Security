@@ -94,6 +94,7 @@
 - https://github.com/tintinweb/paramiko-sshfuzz  【sshfuzzer】
 - https://www.freebuf.com/articles/system/261271.html 【Linux提权】
 - https://www.freebuf.com/articles/system/263139.html 【Windows提权】
+- https://www.freebuf.com/vuls/262047.html 【SSRF】
 
 
 ## 经典渗透案例
