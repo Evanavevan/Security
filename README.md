@@ -96,6 +96,7 @@
 - https://www.freebuf.com/articles/system/263139.html 【Windows提权】
 - https://www.freebuf.com/vuls/262047.html 【SSRF】
 - https://www.freebuf.com/vuls/266335.html 【红队重点系统漏洞】
+- https://www.freebuf.com/articles/web/264920.html  【python安全】
 
 
 ## 经典渗透案例
