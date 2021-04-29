@@ -97,6 +97,8 @@
 - https://www.freebuf.com/vuls/262047.html 【SSRF】
 - https://www.freebuf.com/vuls/266335.html 【红队重点系统漏洞】
 - https://www.freebuf.com/articles/web/264920.html  【python安全】
+- https://www.freebuf.com/articles/database/270106.html 【数据库提权】
+- https://github.com/knownsec/pocsuite3 【POC工具】
 
 
 ## 经典渗透案例
