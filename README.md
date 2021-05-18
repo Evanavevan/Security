@@ -102,6 +102,7 @@
 - https://www.freebuf.com/articles/web/264920.html  【python安全】
 - https://www.freebuf.com/articles/database/270106.html 【数据库提权】
 - https://github.com/knownsec/pocsuite3 【POC工具】
+- https://www.freebuf.com/articles/network/272198.html 【玩转反弹shell】
 
 
 ## 经典渗透案例
