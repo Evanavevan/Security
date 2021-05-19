@@ -103,6 +103,7 @@
 - https://www.freebuf.com/articles/database/270106.html 【数据库提权】
 - https://github.com/knownsec/pocsuite3 【POC工具】
 - https://www.freebuf.com/articles/network/272198.html 【玩转反弹shell】
+- https://www.freebuf.com/articles/network/271827.html 【隐藏通信隧道技术+getshell】
 
 
 ## 经典渗透案例
