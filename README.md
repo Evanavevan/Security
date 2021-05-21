@@ -105,6 +105,7 @@
 - https://www.freebuf.com/articles/network/272198.html 【玩转反弹shell】
 - https://www.freebuf.com/articles/network/271827.html 【隐藏通信隧道技术+getshell】
 - https://www.anquanke.com/post/id/241265#h2-1 【绕过waf上传表单】
+- https://www.anquanke.com/post/id/240007  【phar反序列化】
 
 
 ## 经典渗透案例
