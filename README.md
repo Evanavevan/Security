@@ -108,6 +108,7 @@
 - https://www.anquanke.com/post/id/240007  【phar反序列化】
 - https://www.anquanke.com/post/id/241004  【云原生安全】
 - https://www.freebuf.com/articles/web/271407.html  【信息收集】
+- https://www.anquanke.com/post/id/239946  【K8s NetworkPolicy的应用场景与实验探究】
 
 
 ## 经典渗透案例
