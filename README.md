@@ -107,6 +107,7 @@
 - https://www.anquanke.com/post/id/241265#h2-1 【绕过waf上传表单】
 - https://www.anquanke.com/post/id/240007  【phar反序列化】
 - https://www.anquanke.com/post/id/241004  【云原生安全】
+- https://www.freebuf.com/articles/web/271407.html  【信息收集】
 
 
 ## 经典渗透案例
