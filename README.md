@@ -125,6 +125,7 @@
 - https://www.freebuf.com/articles/web/262232.html
 - https://www.freebuf.com/articles/web/262805.html
 - https://www.freebuf.com/articles/network/263540.html
+- https://www.anquanke.com/post/id/241059  【文件上传】
 
 # 渗透利器
 - https://evilcos.me/?p=336
