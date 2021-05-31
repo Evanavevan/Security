@@ -103,7 +103,8 @@
 - https://github.com/knownsec/pocsuite3 【POC工具】
 - https://www.freebuf.com/articles/network/272198.html 【玩转反弹shell】
 - https://www.freebuf.com/articles/network/271827.html 【隐藏通信隧道技术+getshell】
-- https://www.anquanke.com/post/id/241265#h2-1 【绕过waf上传表单】
+- https://www.anquanke.com/post/id/241265   【绕过waf上传表单-上篇】
+- https://www.anquanke.com/post/id/242583  【绕过waf上传表单-下篇】
 - https://www.anquanke.com/post/id/240007  【phar反序列化】
 - https://www.anquanke.com/post/id/241004  【云原生安全】
 - https://www.freebuf.com/articles/web/271407.html  【信息收集】
