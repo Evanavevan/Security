@@ -115,6 +115,7 @@
 - https://www.anquanke.com/post/id/241598  【堆漏洞及其利用】
 - https://www.anquanke.com/post/id/241808  【命令执行绕过】
 - https://www.anquanke.com/post/id/239994  【SSRF】
+- https://www.anquanke.com/post/id/238669  【DirtyCow漏洞】
 
 
 ## 经典渗透案例
