@@ -72,9 +72,8 @@
 ## 网盘信息
 - http://magnet.chongbuluo.com/
 - http://www.zhuzhupan.com/
-- http://www.zhuzhupan.com/
 
-# 有用的知识
+# 站在巨人的肩膀
 - https://baijiahao.baidu.com/s?id=1666024412704315446&wfr=spider&for=pc
 - https://github.com/LoRexxar/Kunlun-M
 - https://github.com/shack2/SNETCracker/releases
@@ -112,6 +111,7 @@
 - https://www.freebuf.com/articles/web/269523.html   【内网常见隧道工具】
 - https://www.anquanke.com/post/id/240036   【php disable_function_bypass】
 - https://www.anquanke.com/post/id/241147  【.htaccess技巧讲解】
+- https://www.anquanke.com/post/id/241598  【堆漏洞及其利用】
 
 
 ## 经典渗透案例
