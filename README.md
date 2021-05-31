@@ -114,6 +114,7 @@
 - https://www.anquanke.com/post/id/241147  【.htaccess技巧讲解】
 - https://www.anquanke.com/post/id/241598  【堆漏洞及其利用】
 - https://www.anquanke.com/post/id/241808  【命令执行绕过】
+- https://www.anquanke.com/post/id/239994  【SSRF】
 
 
 ## 经典渗透案例
