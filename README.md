@@ -112,6 +112,7 @@
 - https://www.anquanke.com/post/id/240036   【php disable_function_bypass】
 - https://www.anquanke.com/post/id/241147  【.htaccess技巧讲解】
 - https://www.anquanke.com/post/id/241598  【堆漏洞及其利用】
+- https://www.anquanke.com/post/id/241808  【命令执行绕过】
 
 
 ## 经典渗透案例
