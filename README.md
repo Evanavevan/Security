@@ -130,7 +130,7 @@
 - https://www.freebuf.com/vuls/259933.html
 - https://www.freebuf.com/articles/web/262232.html
 - https://www.freebuf.com/articles/web/262805.html
-- https://www.freebuf.com/articles/network/263540.html
+- https://www.freebuf.com/articles/network/263540.html  【PHP Disable_Function绕过】
 - https://www.anquanke.com/post/id/241059  【文件上传】
 - https://www.anquanke.com/post/id/240014  【CRLF注入】
 - https://www.anquanke.com/post/id/241238  【SSRF到RCE】
