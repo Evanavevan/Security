@@ -134,6 +134,7 @@
 - https://www.anquanke.com/post/id/241059  【文件上传】
 - https://www.anquanke.com/post/id/240014  【CRLF注入】
 - https://www.anquanke.com/post/id/241238  【SSRF到RCE】
+- https://www.freebuf.com/articles/web/271678.html  【从零开始的SRC挖掘】
 
 # 渗透利器
 - https://evilcos.me/?p=336
