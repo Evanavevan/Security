@@ -110,6 +110,7 @@
 - https://www.anquanke.com/post/id/238669  【DirtyCow漏洞】
 - https://www.anquanke.com/post/id/241264   【Android常见漏洞】
 - https://www.secpulse.com/archives/44450.html     【通过cmd上传文件的N种方法】
+- https://www.anquanke.com/post/id/235236   【SQL注入】
 
 # 工具类
 - https://github.com/LoRexxar/Kunlun-M   【昆仑镜-源代码静态扫描工具（主要支持php、javascript的语义分析）】
