@@ -2,11 +2,11 @@
 安全知识与工具
 
 # 安全论坛
-- https://www.freebuf.com/
-- https://paper.seebug.org/category/vul-analysis/
-- https://www.kanxue.com/
-- https://www.anquanke.com/
-- https://wooyun.js.org/
+- https://www.freebuf.com/  【FreeBuf】
+- https://paper.seebug.org/category/vul-analysis/  【SeeBug】
+- https://www.kanxue.com/  【看雪】
+- https://www.anquanke.com/  【安全客】
+- https://wooyun.js.org/   【乌云镜像出来的】
 
 # 信息收集工具
 ## Whois信息收集
