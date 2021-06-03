@@ -145,4 +145,4 @@
 - https://www.freebuf.com/articles/web/271678.html  【从零开始的SRC挖掘】
 - https://www.anquanke.com/post/id/241805   【MSSQL渗透】
 - https://www.anquanke.com/post/id/237722  【文件上传拿shell】
-- https://www.anquanke.com/post/id/237319
+- https://www.anquanke.com/post/id/237319   【攻破GitHub私有页面】
