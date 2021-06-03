@@ -113,6 +113,7 @@
 - https://www.anquanke.com/post/id/235236   【SQL注入】
 - https://www.anquanke.com/post/id/238482    【PHP原生类的漏洞利用】
 - https://www.anquanke.com/post/id/232358   【PHP文件包含总结】
+- https://www.anquanke.com/post/id/238363    【Linux内核安全机制】
 
 # 工具类
 - https://github.com/LoRexxar/Kunlun-M   【昆仑镜-源代码静态扫描工具（主要支持php、javascript的语义分析）】
