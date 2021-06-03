@@ -74,33 +74,25 @@
 - http://www.zhuzhupan.com/
 
 # 站在巨人的肩膀
-- https://baijiahao.baidu.com/s?id=1666024412704315446&wfr=spider&for=pc
-- https://github.com/LoRexxar/Kunlun-M
-- https://github.com/shack2/SNETCracker/releases
-- https://blog.zeddyu.info/2019/01/17/%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/#%E5%8F%8D%E5%BC%95%E5%8F%B7%EF%BC%88%E9%87%8D%E9%9F%B3%E7%AC%A6%EF%BC%89
-- https://www.freebuf.com/articles/web/247463.html
-- https://www.freebuf.com/articles/security-management/192723.html
-- https://www.freebuf.com/articles/web/245291.html
+- https://baijiahao.baidu.com/s?id=1666024412704315446&wfr=spider&for=pc  【Gopher协议在SSRF漏洞中的研究】
+- https://blog.zeddyu.info/2019/01/17/%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/#%E5%8F%8D%E5%BC%95%E5%8F%B7%EF%BC%88%E9%87%8D%E9%9F%B3%E7%AC%A6%EF%BC%89  【巧用命令注入的N种方式】
+- https://www.freebuf.com/articles/web/247463.html   【信息收集和漏洞扫描的阶段性总结】
 - https://www.freebuf.com/articles/network/257603.html  【Linux内网渗透】
 - https://www.freebuf.com/articles/web/249043.html  【信息收集】
 - https://www.freebuf.com/articles/security-management/192723.html  【等保】
-- https://www.freebuf.com/articles/web/252333.html  【PHP代码审计】
+- https://www.freebuf.com/articles/web/252333.html  【PHP代码审计入门】
 - https://www.freebuf.com/vuls/254160.html  【未授权漏洞】
-- https://www.freebuf.com/sectool/253994.html  【Go CRLF漏洞扫描工具】
-- https://www.freebuf.com/articles/container/254220.html  【docker安全监测工具】
 - https://www.freebuf.com/articles/web/256235.html  【登录点】
 - https://k-ring.github.io/2019/05/31/%E5%AF%B9%E4%B8%87%E9%87%91%E6%B2%B9gopher%E5%8D%8F%E8%AE%AE%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E5%BA%94%E7%94%A8/  【SSRF】
 - https://mp.weixin.qq.com/s?biz=MzI5MDQ2NjExOQ==&mid=2247484232&idx=1&sn=7a4b4cba86f763e80ad8dd80523ada99&chksm=ec1e3360db69ba76605788159b206b4c4623efdfd74904b6570fa201f08743cfb17958884498&scene=21#wechat_redirect  【端口安全测试】
 - https://www.freebuf.com/articles/database/258650.html 【Go二进制分析】
 - https://www.freebuf.com/articles/web/259377.html 【WAF绕过】
-- https://github.com/tintinweb/paramiko-sshfuzz  【sshfuzzer】
 - https://www.freebuf.com/articles/system/261271.html 【Linux提权】
 - https://www.freebuf.com/articles/system/263139.html 【Windows提权】
 - https://www.freebuf.com/vuls/262047.html 【SSRF】
 - https://www.freebuf.com/vuls/266335.html 【红队重点系统漏洞】
 - https://www.freebuf.com/articles/web/264920.html  【python安全】
 - https://www.freebuf.com/articles/database/270106.html 【数据库提权】
-- https://github.com/knownsec/pocsuite3 【POC工具】
 - https://www.freebuf.com/articles/network/272198.html 【玩转反弹shell】
 - https://www.freebuf.com/articles/network/271827.html 【隐藏通信隧道技术+getshell】
 - https://www.anquanke.com/post/id/241265   【绕过waf上传表单-上篇】
@@ -118,24 +110,31 @@
 - https://www.anquanke.com/post/id/238669  【DirtyCow漏洞】
 - https://www.anquanke.com/post/id/241264   【Android常见漏洞】
 
+# 工具类
+- https://github.com/LoRexxar/Kunlun-M   【昆仑镜-源代码静态扫描工具（主要支持php、javascript的语义分析）】
+- https://www.freebuf.com/articles/web/245291.html   【Threat Dragon：一款针对OWASP的威胁模型构建平台】
+- https://evilcos.me/?p=336
+- https://www.anquanke.com/post/id/241045 【php开源白盒审计工具】
+- https://github.com/shack2/SNETCracker/releases  【超级弱口令检查工具】
+- https://www.freebuf.com/sectool/253994.html  【Go CRLF漏洞扫描工具】
+- https://www.freebuf.com/articles/container/254220.html  【docker安全监测工具】
+- https://github.com/tintinweb/paramiko-sshfuzz  【sshfuzzer】
+- https://github.com/knownsec/pocsuite3 【POC工具】
 
-## 经典渗透案例
-- https://www.freebuf.com/articles/web/257774.html 
-- https://www.freebuf.com/vuls/257629.html
-- https://www.freebuf.com/articles/network/255169.html
-- https://www.freebuf.com/articles/web/257978.html
-- https://www.freebuf.com/articles/web/258365.html
-- https://www.freebuf.com/articles/web/259027.html
-- https://www.freebuf.com/vuls/259417.html
-- https://www.freebuf.com/vuls/259933.html
-- https://www.freebuf.com/articles/web/262232.html
-- https://www.freebuf.com/articles/web/262805.html
+
+# 经典渗透案例
+- https://www.freebuf.com/articles/web/257774.html   【对一次宅男网站的渗透】
+- https://www.freebuf.com/vuls/257629.html  【一次文件读取漏洞的“危害升级”历程】
+- https://www.freebuf.com/articles/network/255169.html  【踩坑版渗透：记某次授权测试】
+- https://www.freebuf.com/articles/web/257978.html  【记录一次众测平台邀请码获取】
+- https://www.freebuf.com/articles/web/258365.html  【我在CTFHub学习SSRF】
+- https://www.freebuf.com/articles/web/259027.html  【WAF绕过拍了拍你】
+- https://www.freebuf.com/vuls/259417.html   【构造基于时间的盲注漏洞（Time-Based SQLi）】
+- https://www.freebuf.com/vuls/259933.html   【利用Oculus网站XSS漏洞实现对Facebook和Oculus用户的账户劫持】
+- https://www.freebuf.com/articles/web/262232.html  【发现Lucee 0day漏洞RCE掉三个苹果公司网站】
+- https://www.freebuf.com/articles/web/262805.html   【蓝队应急响应之“雄鸡夜鸣”】
 - https://www.freebuf.com/articles/network/263540.html  【PHP Disable_Function绕过】
 - https://www.anquanke.com/post/id/241059  【文件上传】
 - https://www.anquanke.com/post/id/240014  【CRLF注入】
 - https://www.anquanke.com/post/id/241238  【SSRF到RCE】
 - https://www.freebuf.com/articles/web/271678.html  【从零开始的SRC挖掘】
-
-# 渗透利器
-- https://evilcos.me/?p=336
-- https://www.anquanke.com/post/id/241045 【php开源白盒审计工具】
