@@ -111,10 +111,11 @@
 - https://www.anquanke.com/post/id/241264   【Android常见漏洞】
 - https://www.secpulse.com/archives/44450.html     【通过cmd上传文件的N种方法】
 - https://www.anquanke.com/post/id/235236   【SQL注入】
-- https://www.anquanke.com/post/id/238482    【PHP原生类的漏洞利用】
+- https://www.anquanke.com/post/id/238482   【PHP原生类的漏洞利用】
 - https://www.anquanke.com/post/id/232358   【PHP文件包含总结】
-- https://www.anquanke.com/post/id/238363    【Linux内核安全机制】
+- https://www.anquanke.com/post/id/238363   【Linux内核安全机制】
 - https://www.anquanke.com/post/id/236522   【Windows渗透基础】
+- https://www.anquanke.com/post/id/235190   【WEB密码学攻击】
 
 # 工具类
 - https://github.com/LoRexxar/Kunlun-M   【昆仑镜-源代码静态扫描工具（主要支持php、javascript的语义分析）】
