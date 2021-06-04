@@ -149,3 +149,4 @@
 - https://www.anquanke.com/post/id/241805   【MSSQL渗透】
 - https://www.anquanke.com/post/id/237722  【文件上传拿shell】
 - https://www.anquanke.com/post/id/237319   【攻破GitHub私有页面】
+- https://www.freebuf.com/articles/web/273234.html   【内网漫游实例】
