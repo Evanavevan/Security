@@ -154,3 +154,4 @@
 - https://www.freebuf.com/articles/web/273234.html   【内网漫游实例】
 - https://www.freebuf.com/articles/network/276242.html   【初探远程桌面的安全问题】
 - https://www.anquanke.com/post/id/242573   【从hw打点到编写python版webshell提权】
+- https://www.anquanke.com/post/id/241148   【Proc 目录的利用】
