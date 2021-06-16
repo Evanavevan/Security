@@ -117,6 +117,7 @@
 - https://www.anquanke.com/post/id/236522   【Windows渗透基础】
 - https://www.anquanke.com/post/id/235190   【WEB密码学攻击】
 - https://www.anquanke.com/post/id/235970   【SQL注入】
+- https://www.anquanke.com/post/id/241146   【浅入深出 Reids 攻击方法总结】
 
 # 工具类
 - https://github.com/LoRexxar/Kunlun-M   【昆仑镜-源代码静态扫描工具（主要支持php、javascript的语义分析）】
