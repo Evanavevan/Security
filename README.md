@@ -121,6 +121,7 @@
 - https://www.anquanke.com/post/id/241146   【浅入深出 Reids 攻击方法总结】
 - https://www.anquanke.com/post/id/241239   【堆利用系列之开篇】
 - https://www.leavesongs.com/PENETRATION/webshell-without-alphanum-advanced.html  【无字母数字webshell之提高篇】
+- https://www.leavesongs.com/PENETRATION/php-filter-magic.html  【php://filter的妙用】
 
 # 工具类
 - https://github.com/LoRexxar/Kunlun-M   【昆仑镜-源代码静态扫描工具（主要支持php、javascript的语义分析）】
