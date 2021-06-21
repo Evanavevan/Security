@@ -122,6 +122,7 @@
 - https://www.anquanke.com/post/id/241239   【堆利用系列之开篇】
 - https://www.leavesongs.com/PENETRATION/webshell-without-alphanum-advanced.html  【无字母数字webshell之提高篇】
 - https://www.leavesongs.com/PENETRATION/php-filter-magic.html  【php://filter的妙用】
+- https://www.anquanke.com/post/id/242547  【API安全】
 
 # 工具类
 - https://github.com/LoRexxar/Kunlun-M   【昆仑镜-源代码静态扫描工具（主要支持php、javascript的语义分析）】
@@ -133,7 +134,6 @@
 - https://www.freebuf.com/articles/container/254220.html  【docker安全监测工具】
 - https://github.com/tintinweb/paramiko-sshfuzz  【sshfuzzer】
 - https://github.com/knownsec/pocsuite3  【POC工具】
-- https://www.anquanke.com/post/id/242547  【API安全】
 
 
 # 经典渗透案例
