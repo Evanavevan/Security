@@ -132,7 +132,8 @@
 - https://www.freebuf.com/sectool/253994.html  【Go CRLF漏洞扫描工具】
 - https://www.freebuf.com/articles/container/254220.html  【docker安全监测工具】
 - https://github.com/tintinweb/paramiko-sshfuzz  【sshfuzzer】
-- https://github.com/knownsec/pocsuite3 【POC工具】
+- https://github.com/knownsec/pocsuite3  【POC工具】
+- https://www.anquanke.com/post/id/242547  【API安全】
 
 
 # 经典渗透案例
