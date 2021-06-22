@@ -123,6 +123,7 @@
 - https://www.leavesongs.com/PENETRATION/webshell-without-alphanum-advanced.html  【无字母数字webshell之提高篇】
 - https://www.leavesongs.com/PENETRATION/php-filter-magic.html  【php://filter的妙用】
 - https://www.anquanke.com/post/id/242547  【API安全】
+- https://juejin.cn/post/6976518399299944485   【Linux等保三级整改】
 
 # 工具类
 - https://github.com/LoRexxar/Kunlun-M   【昆仑镜-源代码静态扫描工具（主要支持php、javascript的语义分析）】
