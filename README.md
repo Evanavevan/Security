@@ -125,6 +125,7 @@
 - https://www.anquanke.com/post/id/242547  【API安全】
 - https://juejin.cn/post/6976518399299944485   【Linux等保三级整改】
 - https://www.freebuf.com/articles/es/276772.html  【零信任实战架构总结】
+- https://www.anquanke.com/post/id/245492   【隐秘的印记：暗水印实践技术分享】
 
 # 工具类
 - https://github.com/LoRexxar/Kunlun-M   【昆仑镜-源代码静态扫描工具（主要支持php、javascript的语义分析）】
