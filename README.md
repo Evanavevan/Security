@@ -136,6 +136,7 @@
 - https://www.freebuf.com/articles/container/254220.html  【docker安全监测工具】
 - https://github.com/tintinweb/paramiko-sshfuzz  【sshfuzzer】
 - https://github.com/knownsec/pocsuite3  【POC工具】
+- https://www.oschina.net/p/mimikatz?hmsr=aladdin1e1  【Windows 密码抓取神器】
 
 
 # 经典渗透案例
