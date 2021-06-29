@@ -2,6 +2,7 @@
 ## 基本知识
 - https://www.anquanke.com/post/id/241004  【云原生安全】
 - https://www.anquanke.com/post/id/239946  【K8s NetworkPolicy的应用场景与实验探究】
+- https://www.freebuf.com/articles/container/274054.html  【云原生时代，如何“玩转”容器安全】
 
 ## 工具类
 - https://www.freebuf.com/articles/container/254220.html  【docker安全监测工具】
