@@ -99,9 +99,7 @@
 - https://www.anquanke.com/post/id/241265   【绕过waf上传表单-上篇】
 - https://www.anquanke.com/post/id/242583  【绕过waf上传表单-下篇】
 - https://www.anquanke.com/post/id/240007  【phar反序列化】
-- https://www.anquanke.com/post/id/241004  【云原生安全】
 - https://www.freebuf.com/articles/web/271407.html  【信息收集】
-- https://www.anquanke.com/post/id/239946  【K8s NetworkPolicy的应用场景与实验探究】
 - https://www.freebuf.com/articles/web/269523.html   【内网常见隧道工具】
 - https://www.anquanke.com/post/id/240036   【php disable_function_bypass】
 - https://www.anquanke.com/post/id/241147  【.htaccess技巧讲解】
@@ -135,11 +133,9 @@
 - https://www.anquanke.com/post/id/241045 【php开源白盒审计工具】
 - https://github.com/shack2/SNETCracker/releases  【超级弱口令检查工具】
 - https://www.freebuf.com/sectool/253994.html  【Go CRLF漏洞扫描工具】
-- https://www.freebuf.com/articles/container/254220.html  【docker安全监测工具】
 - https://github.com/tintinweb/paramiko-sshfuzz  【sshfuzzer】
 - https://github.com/knownsec/pocsuite3  【POC工具】
 - https://www.oschina.net/p/mimikatz?hmsr=aladdin1e1  【Windows 密码抓取神器】
-- https://wiki.freebuf.com/detail?wiki=19&post=274797 【Kubestriker：一款针对Kubernetes的快速安全审计工具】
 
 
 # 经典渗透案例
