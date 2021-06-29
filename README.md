@@ -139,6 +139,7 @@
 - https://github.com/tintinweb/paramiko-sshfuzz  【sshfuzzer】
 - https://github.com/knownsec/pocsuite3  【POC工具】
 - https://www.oschina.net/p/mimikatz?hmsr=aladdin1e1  【Windows 密码抓取神器】
+- https://wiki.freebuf.com/detail?wiki=19&post=274797 【Kubestriker：一款针对Kubernetes的快速安全审计工具】
 
 
 # 经典渗透案例
