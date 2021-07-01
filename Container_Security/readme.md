@@ -10,6 +10,7 @@
 ## 工具类
 - https://www.freebuf.com/articles/container/254220.html  【docker安全监测工具】
 - https://wiki.freebuf.com/detail?wiki=19&post=274797 【Kubestriker：一款针对Kubernetes的快速安全审计工具】
+- https://www.freebuf.com/articles/container/277697.html  【Krane：一款功能强大的Kubernetes RBAC静态分析与可视化工具】
 
 ## 安全配置
 - https://www.freebuf.com/sectool/173989.html  【Docker容器安全最佳实践白皮书V1.0】
