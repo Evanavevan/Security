@@ -8,6 +8,7 @@
 - https://www.anquanke.com/  【安全客】
 - https://wooyun.js.org/   【乌云镜像出来的】
 - https://www.leavesongs.com/   【离歌博客】
+- https://blogs.360.cn/    【360核心安全】
 
 # 信息收集工具
 ## Whois信息收集
