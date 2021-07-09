@@ -165,3 +165,4 @@
 - https://www.anquanke.com/post/id/241148   【Proc 目录的利用】
 - https://www.freebuf.com/articles/web/277484.html   【某学院系统sql注入到服务器沦陷】
 - https://www.freebuf.com/articles/others-articles/277289.html  【内网+服务攻防模拟实战】
+- https://www.anquanke.com/post/id/246292   【zip://伪协议的巧用】
