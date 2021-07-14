@@ -10,6 +10,7 @@
 - https://www.freebuf.com/articles/container/271655.html  【docker容器安全之基础篇】
 - https://www.freebuf.com/articles/es/223187.html         【浅析Docker容器安全管控方法】
 - https://www.freebuf.com/articles/others-articles/228615.html  【云原生之容器安全实践】
+- https://www.anquanke.com/post/id/245526  【云安全之K8S】            
 
 ## 工具类
 - https://www.freebuf.com/articles/container/254220.html  【docker安全监测工具】
