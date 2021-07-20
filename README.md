@@ -127,6 +127,7 @@
 - https://www.anquanke.com/post/id/245492   【隐秘的印记：暗水印实践技术分享】
 - https://www.anquanke.com/post/id/245019   【闲谈文件写入实战应用】
 - https://www.anquanke.com/post/id/245532   【SQL注入专题】
+- https://www.freebuf.com/articles/network/279563.html  【老生常谈的无字母数字 Webshell 总结】
 
 # 工具类
 - https://github.com/LoRexxar/Kunlun-M   【昆仑镜-源代码静态扫描工具（主要支持php、javascript的语义分析）】
